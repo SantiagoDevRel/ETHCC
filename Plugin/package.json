@@ -1,6 +1,6 @@
 {
   "name": "ethcc-arbitrum-testing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "```js // Import Web3 and Plugin import { EthCC } from \"ethcc-arbitrum-testing\"; import { Web3 } from \"web3\";",
   "main": "myPluginClass.mjs",
   "scripts": {

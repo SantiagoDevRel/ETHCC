@@ -1,4 +1,4 @@
-import Web3, { Web3PluginBase, eth, utils } from "web3";
+import { Web3PluginBase, eth, utils } from "web3";
 
 export class EthCC extends Web3PluginBase {
   //1.  Add name
