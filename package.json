@@ -1,0 +1,16 @@
+{
+  "name": "ethcc",
+  "version": "1.0.0",
+  "description": "Title: web3.js v4: Building and using web3 plugins🧩 to enhance Web3 DevEx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethcc-arbitrum-testing": "^1.0.1",
+    "web3": "^4.10.0"
+  }
+}

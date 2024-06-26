@@ -1,0 +1,15 @@
+{
+  "name": "ethcc-arbitrum-testing",
+  "version": "1.0.1",
+  "description": "```js // Import Web3 and Plugin import { EthCC } from \"ethcc-arbitrum-testing\"; import { Web3 } from \"web3\";",
+  "main": "myPluginClass.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SantiagoDevRel",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.9.0"
+  }
+}
