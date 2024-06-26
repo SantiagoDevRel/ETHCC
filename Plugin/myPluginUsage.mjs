@@ -9,8 +9,9 @@ web3.registerPlugin(new EthCC());
 // Use Plugin
 async function main() {
   console.log(await web3.ethcc.arbitrum());
-  //console.log(await web3.ethcc.optimism());
   console.log(await web3.ethcc.zkevm());
+  console.log(await web3.ethcc.zkSync());
+  console.log(await web3.ethcc.starknet());
 }
 
 main();
