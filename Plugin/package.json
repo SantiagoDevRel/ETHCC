@@ -1,8 +1,11 @@
 {
   "name": "ethcc-arbitrum-testing",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "```js // Import Web3 and Plugin import { EthCC } from \"ethcc-arbitrum-testing\"; import { Web3 } from \"web3\";",
   "main": "myPluginClass.mjs",
+  "repository": {
+    "url": "https://github.com/SantiagoDevRel/ETHCC/tree/main/Plugin"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
